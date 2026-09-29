@@ -2,7 +2,7 @@
 
 A remote Model Context Protocol (MCP) server, deployed on Cloudflare Workers, that exposes read-only Google Analytics 4 and Google Search Console data to MCP clients such as Claude Desktop, Cowork, Lovable Agent, and the MCP Inspector.
 
-Built for the Rablab agency to power dashboards and content reporting workflows. Open for forks.
+Built for the Rablab agency to power dashboards and content reporting  workflows. Open for forks.
 
 ## Features
 
